@@ -1,0 +1,9 @@
+requests
+cheshire-cat-api
+python-dotenv
+colorlog
+soundfile
+ffmpeg-python
+aiohttp
+telethon
+pillow

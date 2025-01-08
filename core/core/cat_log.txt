@@ -1,0 +1,118 @@
+[32m[2025-01-03 18:18:14.182][0m [1mINFO  [0m [1mcat.mad_hatter.mad_hatter.MadHatter.find_plugins::104[0m 
+[1m"ACTIVE PLUGINS:"[0m
+[32m[2025-01-03 18:18:14.183][0m [1mINFO  [0m [1mcat.mad_hatter.mad_hatter.MadHatter.find_plugins::105[0m 
+[1m[
+    "core_plugin"
+][0m
+[32m[2025-01-03 18:18:14.216][0m [1mINFO  [0m [1mcat.looking_glass.white_rabbit.WhiteRabbit.__init__::26[0m 
+[1m"Initializing WhiteRabbit..."[0m
+[32m[2025-01-03 18:18:14.218][0m [1mINFO  [0m [1mcat.looking_glass.white_rabbit.WhiteRabbit.__init__::53[0m 
+[1m"WhiteRabbit: Starting scheduler"[0m
+[32m[2025-01-03 18:18:14.221][0m [1mINFO  [0m [1mcat.looking_glass.white_rabbit.WhiteRabbit.__init__::58[0m 
+[1m"WhiteRabbit: Scheduler started"[0m
+[32m[2025-01-03 18:18:14.231][0m [1mINFO  [0m [1mcat.memory.vector_memory.VectorMemory.connect_to_vector_memory::52[0m 
+[1m"Qdrant path: cat/data/local_vector_memory/"[0m
+[32m[2025-01-03 18:18:14.256][0m [1mINFO  [0m [1mcat.memory.vector_memory_collection.VectorMemoryCollection.create_db_collection_if_not_exists::89[0m 
+[1m"Collection 'episodic' already present in vector store"[0m
+[32m[2025-01-03 18:18:14.263][0m [1mINFO  [0m [1mcat.memory.vector_memory_collection.VectorMemoryCollection.create_db_collection_if_not_exists::89[0m 
+[1m"Collection 'declarative' already present in vector store"[0m
+[32m[2025-01-03 18:18:14.268][0m [1mINFO  [0m [1mcat.memory.vector_memory_collection.VectorMemoryCollection.create_db_collection_if_not_exists::89[0m 
+[1m"Collection 'procedural' already present in vector store"[0m
+                                                           :+-                                      
+                                                          -@@@                                      
+                                                         -@@@@:                .::.                 
+                      =@@%-                           .-@@@@@@@-              *@@@@-                
+                     *@@@@@-                      +@@@@@@@@@@@@@@*-          +@@@@@@+               
+                   +@@@@@@@@-                     =#%@@@@@@@@@@@@@@@*       *@@@@@@@@%:             
+                  %@@@@@@@@@@*                        .*@@@@@@@@#*==      .%@@@@@@@@@@@=            
+                 %@@@@@@@@@@@@#                         #@@@@@-          .@@@@@@@@@@@@@@.           
+                =@@@@@@@@@@@@@@%:                       .@@@@-          :@@@@@@@@@@@@@@@*           
+                %@@@@@@@@@@@@@@@@.                       +@@*           #@@@@@@@@@@@@@@@@           
+               :@@@@@@@@@@@@@@@@@+                                     =@@@@@@@@@@@@@@@@@*          
+               %@@@@@@@@@@@@@@@@@@:             ..........            =@@@@@@@@@@@@@@@@@@@:         
+              +@@@@@@@@@@@@@@@@@@@@.  :=+*#%@@@@@@@@@@@@@@@@@@#*+=:  -@@@@@@@@@@@@@@@@@@@@#         
+              @@@@@@@@@@@@@@@@@@@@@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@:        
+             =@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*        
+             #@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@        
+            .@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@-       
+            =@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+       
+            +@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#@@@@@@@@@@@@@@@@@@@@@@@@@@#       
+            %@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+ #@@@@@@@@@@@@@@@@@@@@@@@@@@       
+            @@@@@@@@@@@@@@@@@@@@@@@@@@++@@@@@@@@@@@@@@@@@@@@@@@@+ +@@@@@@@@@@@@@@@@@@@@@@@@@@:      
+            @@@@@@@@@@@@@@@@@@@@@@@@@@= @@@@@@@@@@@@@@@@@@@@@@@@+ :@@@@@@@@@@@@@@@@@@@@@@@@@@:      
+           .@@@@@@@@@@@@@@@@@@@@@@@@@@= =@@@@@@@@@@@@@@@@@@@@@@%.  -#@@@@@@@@@@@@@@@@@@@@@@@@=      
+           :@@@@@@@@@@@@@@@@@@@@@@@@@@=  *@@@@@@@@@@@@@@@@@@@#-        .%@@@@@@@@@@@@@@@@@@@@+      
+           :@@@@@@@@@@@@@@@@@@@@@@@@@#    :+*%@@@@@@@@@@@@@@@=:.    .=*%@@@@@@@@@@@@@@@@@@@@@+      
+           :@@@@@@@@@@@@@@@@@@@@@@*:         +@@@@@@@@@@@@@@@@@@@:  @@@@@@@@@@@@@@@@@@@@%@@@@+      
+           :@@@@@@@@@@@@@@@@@@@@@@@*=-     =@@@@@@@@@@@@@@@@@@@@@@ :@@@@@@@@@@@@@@@@@@@@=@@@@*      
+           .@@@@@@@@@@@@@@@@@@@@@@@@@@%.  *@@@@@@@@@@@@@@@@@@@@@@@::@@@@@@@@@@@@@@@@@@#:+@@@@+      
+            @@@@@@@@@@@@@@@@@@@@@@@@@@@#  #@@@@@@@@@@@@@@@@@@@@@@@%#@@@@@@@@@@@@@@@@@-  %@@@@:      
+            +@@@@@@@@@@@@@@@@@@@@@@@@@@@. #@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#   +@@@@%       
+    .=.      #@@@@@%-*@@@@@@@@@@@@@@@@@@@#@@@@@@@@@@@%++@@@@@@@@@@@@@@@@@@@@@@@@#+:  .*@@@@%.       
+ .:=@@%.      *@@@@@@::@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+.     -@@@@@%         
++@@@@@@@%+     +@@@@@@. :*@@@@@@@@@@@@@@@@@@@@@@@@@@@@*:+*%@@@@@@@@@@@@%*=:        -@@@@@#          
+ :=%@@%*+-      =@@@@@%-   :+#%@@@@@@@@@@@@@@@@@@%+=:        .......             :+@@@@@*           
+   .##           :%@@@@@%-      .-+*#%%%%%##+=:.                               =%@@@@@@-            
+                   -%@@@@@%:                                                 =@@@@@@@=              
+                     .+@@@@@#=:                                          -+#@@@@@@#=                
+                        -*@@@@@@%=                                  .=+%@@@@@@@#=            .      
+                           :+#%@@@@@#*+-::..             ..::-=+*#%@@@@@@@@#*-             #@@-     
+                                -+%@@@@@@@@@@@@%%%%%%%@@@@@@@@@@@@@@@@@#=.               .#@@@*     
+                                    .-+#%@@@@@@@@@@@@@@@@@@@@@@@@#+=:                -=*#@@@@@@+:   
+                                           ..:---=======---::.                      .*%@@@@@@@@@@@@=
+                                                                                        -@@@@@@*+=- 
+                                                                                         =@@@@:     
+                                                                                          #@@+      
+
+
+=============== ^._.^ ===============
+
+Cat REST API:   http://localhost:1865/docs
+Cat ADMIN:      http://localhost:1865/admin
+
+======================================
+[32m[2025-01-03 18:21:59.909][0m [33m[1mWARNING[0m [33m[1mcat.utils..deprecation_warning::315[0m 
+[33m[1m"Deprecation Warning: The `message` attribute is deprecated. Use `text` instead. [/home/nicorb/core/.cat_env/lib/python3.10/site-packages/pydantic/main.py, line 918])"[0m
+[32m[2025-01-03 18:21:59.910][0m [1mINFO  [0m [1mcat.looking_glass.stray_cat.StrayCat.__call__::373[0m 
+[1mUserMessage(user_id='109212416', when=1735928519.8956676, who='Human', text='gs', image=None, audio=None, meowgram={'update': {'message': {'message_id': 6, 'from': {'id': 109212416, 'username': 'nicorb93', 'first_name': 'Nicola', 'last_name': 'Corbe - Lakebak'}}}}, message='gs')[0m
+[32m[2025-01-03 18:21:59.912][0m [1mINFO  [0m [1mcat.looking_glass.stray_cat.StrayCat.recall_relevant_memories_to_working_memory::220[0m 
+[1m"Recall query: 'gs'"[0m
+[32m[2025-01-03 18:22:00.271][0m [33m[1mWARNING[0m [33m[1mcat.utils..match_prompt_variables::198[0m 
+[33m[1m"Prompt variable 'chat_history' not found in prompt template, removed"[0m
+[32m[2025-01-03 18:22:00.272][0m [33m[1mWARNING[0m [33m[1mcat.utils..match_prompt_variables::198[0m 
+[33m[1m"Prompt variable 'input' not found in prompt template, removed"[0m
+
+
+[32;1m[1;3m==================== MAIN PROMPT ====================[0m
+[32;1m[1;3mSystemMessage[0m
+You are the Cheshire Cat AI, an intelligent AI that passes the Turing test.
+You behave like the Cheshire Cat from Alice's adventures in wonderland, and you are helpful.
+You answer Human shortly and with a focus on the following context.
+
+# Context
+
+
+
+
+
+
+[32;1m[1;3mHumanMessage[0m
+[{'type': 'text', 'text': 'gs'}]
+[32;1m[1;3m========================================[0m
+
+
+[36;1m[1;3m==================== MAIN PROMPT OUTPUT ====================[0m
+AI: You did not configure a Language Model. Do it in the settings!
+[36;1m[1;3m========================================[0m
+[32m[2025-01-03 18:22:00.516][0m [1mINFO  [0m [1mcat.looking_glass.stray_cat.StrayCat.__call__::439[0m 
+[1m"Agent output returned to stray:"[0m
+[32m[2025-01-03 18:22:00.517][0m [1mINFO  [0m [1mcat.looking_glass.stray_cat.StrayCat.__call__::440[0m 
+[1mAgentOutput(output='AI: You did not configure a Language Model. Do it in the settings!', intermediate_steps=[], return_direct=False)[0m
+[32m[2025-01-03 18:22:00.540][0m [33m[1mWARNING[0m [33m[1mcat.utils..deprecation_warning::315[0m 
+[33m[1m"Deprecation Warning: The `message` attribute is deprecated. Use `text` instead. [/home/nicorb/core/.cat_env/lib/python3.10/site-packages/pydantic/main.py, line 308])"[0m
+[32m[2025-01-03 18:22:00.541][0m [33m[1mWARNING[0m [33m[1mcat.utils..deprecation_warning::315[0m 
+[33m[1m"Deprecation Warning: The `content` attribute is deprecated. Use `text` instead. [/home/nicorb/core/.cat_env/lib/python3.10/site-packages/pydantic/main.py, line 308])"[0m
+[32m[2025-01-03 18:25:34.881][0m [1mINFO  [0m [1mcat.routes.websocket..websocket_endpoint::46[0m 
+[1m"WebSocket connection closed"[0m
+[32mINFO[0m:     127.0.0.1:58402 - "[1mGET /admin HTTP/1.1[0m" [33m307 Temporary Redirect[0m
+[32mINFO[0m:     127.0.0.1:40486 - "[1mGET / HTTP/1.1[0m" [32m200 OK[0m
